@@ -2,7 +2,7 @@
 
 ##비금융 데이터를 활용한 엔터테인먼트 주가 예측
 
-![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/f14c6398-90bc-464d-b8c4-625eb5214c2e)
+
 ![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/9f94e8b4-a882-4dbb-a665-0128fdd1938e)
 ![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/4a06e404-88cb-4702-b627-a3f2bcdf1e36)
 ![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/103af85c-74a3-44ef-a3f2-c0572225ce7f)
