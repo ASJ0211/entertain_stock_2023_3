@@ -79,6 +79,5 @@ MAE, RMSE, RMSLE, R2에서 모두 좋은 수치를 기록한 GRU 선택.
 
 에스엠, 하이브, JYP Ent., 에프엔씨엔터는 
 “뉴스 제목 감정”과 “음원차트 점수”추가 사용시 모델 개선 되지 않음
-![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/36a9366e-72a4-415f-a1b3-4943b6fb9024)
 
 ![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/6a97516a-4d50-4fe1-921c-625369643d87)
