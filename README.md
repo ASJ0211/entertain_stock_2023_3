@@ -66,6 +66,7 @@ MAE, RMSE, RMSLE, R2에서 모두 좋은 수치를 기록한 GRU 선택.
 ![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/1010517c-9da8-4e3d-828b-fad0f0771d18)
 ![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/714deff4-d90c-4424-a940-db030f4224f5)
 ![image](https://github.com/ASJ0211/entertain_stock_2023_4/assets/118821779/74dd4bd8-d014-4bc9-9773-9242b8f27b9c)
+큐브엔터, 와이지엔터테인먼트
 “뉴스 제목 감정”과 “음원차트 점수” 추가 사용시 모델이 개선됨
 
 에스엠, 하이브, JYP Ent., 에프엔씨엔터는 
